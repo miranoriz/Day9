@@ -1,2 +1,2 @@
-# Day9
+My first git project
 
